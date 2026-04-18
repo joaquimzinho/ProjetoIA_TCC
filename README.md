@@ -1,2 +1,2 @@
 # ProjetoIA_TCC
-Uma IA que faz análise de avaliações.
+Uma IA que faz análise de avaliações e estrelas.
